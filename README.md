@@ -10,7 +10,7 @@ Limit search to articles in English, published 2010-2021, describe implementatio
 
 2. Interview AI experts and clinician that use AI in clinical practice
 Interview a minimum of n=10 clinicians using AI in their routine clinical practice. Ask them to provide insights into the implementation, workflow changes, and
-their beliefs and attitudes towards the implementationa nd deployment of AI applications. The interviews will be conducted over the phone or through email. 
+their beliefs and attitudes towards the implementationa and deployment of AI applications. The interviews will be conducted over the phone or through email. 
 https://medium.com/building-trust-and-adoption-in-machine-learning-in/my-clinician-interview-guide-f46f26f959e8 
 
 3. Solicit feedback 
