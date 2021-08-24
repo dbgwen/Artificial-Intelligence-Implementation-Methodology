@@ -8,6 +8,9 @@ Search PubMed, Google Scholar, and other online databases for AI implementation 
 Limit search to articles in English, published 2010-2021, describe implementation or deployment of AI applications in health care
 [PubMedSearchHistory (2).csv](https://github.com/dbgwen/Artificial-Intelligence-Implementation-Model/files/7033150/PubMedSearchHistory.2.csv)
 
+  - See Scoping_Review_Search_Strategy
+  - See .pdf and .xlsx files containing Bollean phrases for the search results
+
 2. Interview AI experts and clinician that use AI in clinical practice
 Interview a minimum of n=10 clinicians using AI in their routine clinical practice. Ask them to provide insights into the implementation, workflow changes, and
 their beliefs and attitudes towards the implementationa and deployment of AI applications. The interviews will be conducted over the phone or through email. 
