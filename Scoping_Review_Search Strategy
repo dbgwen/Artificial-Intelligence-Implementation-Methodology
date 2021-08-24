@@ -1,0 +1,57 @@
+
+Methods for Research Evidence Synthesis: The Scoping Review Approach 
+https://www.journalofhospitalmedicine.com/jhospmed/article/202729/hospital-medicine/methods-research-evidence-synthesis-scoping-review
+
+
+Step 1: Identify the research question
+
+  What methods are used to implement AI in health care settings?
+    Do these methods follow any frameworks or theories?
+  What are the key concepts, domains, and terminology found in the AI implementation research literature?
+
+Step 2: Identify relevant studies
+  
+  PudMed MeSH Terms: "artificial intelligence"[MeSH Terms] OR artificial intelligence[Text Word]
+                     "translational medical research" [
+
+  Boolean search: ("artificial intelligence") AND ("implementation" OR "adoption" OR "deploy") 
+
+Step 3: Study selection
+
+Step 4: Chart the data
+
+Step 5: Collate, summarize, and report the results
+
+Step 6: Consultation exercise
+
+
+
+## Notes on MeSH Terms ##
+
+** MeSH Categories Hierarchy for artificial intelligence **
+Information Science Category
+  Information Science
+    Computing Methodologies
+      Algorithms
+        Artificial Intelligence
+          Computer Heuristics
+          Expert Systems
+          Fuzzy Logic
+          Knowledge Bases
+            Biological Ontologies +
+          Machine Learning
+            Deep Learning
+            Supervised Machine Learning +
+            Unsupervised Machine Learning
+          Natural Language Processing
+          Neural Networks, Computer
+            Deep Learning
+          Robotics
+          
+** MeSH Categories Hierarchy for translational medical research **
+Disciplines and Occupations Category
+  Natural Science Disciplines
+    Science
+      Research
+        Biomedical Research
+          Translational Medical Research
