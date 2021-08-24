@@ -3,6 +3,7 @@
 Methods for Research Evidence Synthesis: The Scoping Review Approach 
 https://www.journalofhospitalmedicine.com/jhospmed/article/202729/hospital-medicine/methods-research-evidence-synthesis-scoping-review
 
+### Scoping review for implementation methods used for AI in health care settings ###
 
 ## Step 1: Identify the research question
 
@@ -18,11 +19,6 @@ https://www.journalofhospitalmedicine.com/jhospmed/article/202729/hospital-medic
                      "informatics"
                      "health services research"
                      "methods"
-                     "quality improvement"
-                     "user-centered design"
-                     "learning health system"
-                     "healthcare disparities"
-                     "health equity"
                     
   Boolean search: ("artificial intelligence") AND ("implementation science" OR "translational medical research") AND ("methods") 
                    PubMed: 49 Results
@@ -60,7 +56,38 @@ https://www.journalofhospitalmedicine.com/jhospmed/article/202729/hospital-medic
 
 
 
-### Notes on MeSH Terms - Category Hierarchy
+### Scoping review for relevant theories, frameworks, and models from other fields ###
+
+## Step 1: Identify the research question
+
+  What other theories, frameworks, and models from quality improvement, health equity, and design process thinking are relevant to AI implementation in health care?
+  Are there other methodlogical frameworks in these fields?
+
+## Step 2: Identify relevant studies
+ 
+  PubMed MeSH terms: "quality improvement"
+  *See MeSH notes    "user-centered design"
+   at bottom*        "learning health system"
+                     "healthcare disparities"
+                     "health equity"
+                     
+## Step 3: Study selection
+
+  Inclusion criteria: English language articles
+                      Published between 2010-2021
+                      Focused on frameworks, theories, and models from quality improvement, health equity, and design process thinking
+               
+## Step 4: Chart the data                    
+ Develop study matrix of relevant frameworks, theories, and models including the kep concepts, domains, and terminology used
+
+## Step 5: Collate, summarize, and report the results
+  The results will be summarized in a table and be used in the development of the AIIM
+
+## Step 6: Consultation exercise
+  The final results will be provided to experts in the field to get feedback on the findings 
+
+
+### Notes on MeSH Terms - Category Hierarchy ###
 
 **  artificial intelligence **
 https://www.ncbi.nlm.nih.gov/mesh/68001185
