@@ -1,34 +1,69 @@
 
+
 Methods for Research Evidence Synthesis: The Scoping Review Approach 
 https://www.journalofhospitalmedicine.com/jhospmed/article/202729/hospital-medicine/methods-research-evidence-synthesis-scoping-review
 
 
-Step 1: Identify the research question
+## Step 1: Identify the research question
 
   What methods are used to implement AI in health care settings?
     Do these methods follow any frameworks or theories?
   What are the key concepts, domains, and terminology found in the AI implementation research literature?
 
-Step 2: Identify relevant studies
+## Step 2: Identify relevant studies
   
-  PudMed MeSH Terms: "artificial intelligence"[MeSH Terms] OR artificial intelligence[Text Word]
-                     "translational medical research" [
+  PudMed MeSH Terms: "artificial intelligence"
+  *See MeSH notes    "translational medical research"
+  at bottom*         "diffusion of innovation"
+                     "informatics"
+                     "health services research"
+                     "methods"
+                     "quality improvement"
+                     "user-centered design"
+                     "learning health system"
+                     "healthcare disparities"
+                     "health equity"
+                    
+  Boolean search: ("artificial intelligence") AND ("implementation science" OR "translational medical research") AND ("methods") 
+                   PubMed: 49 Results
+                  ("methodology" OR "methods") AND ("implementation science" OR "translational medical research") AND ("artificial intelligence")
+                   Google Scholar (2010-2020): 2,430 results
+                   ("artificial intelligence") AND ("implementation science" OR "translational medical research") AND ("methods")
+                   U of U Eccles Health Sciences Library Catalog: 401 results
+                   
+## Step 3: Study selection
 
-  Boolean search: ("artificial intelligence") AND ("implementation" OR "adoption" OR "deploy") 
+  Inclusion criteria: English language articles
+                      Published between 2010-2021
+                      Describes the methods and results from implementation of AI application in health care setting
+                      Observational studies - longitudinal, cross-sectional, non-randomized
+                      Experimental studies - randomized controlled trials
+                      Hybrid-effectiveness studies
+                      Qualitative studies examining the barriers and facilitators to AI implementation
+                      
+  Exclusion critera: Studies only reporting on usability testing or user design
+                     Studies only reporting on the development of the AI application
+                     Studies without a methods section
 
-Step 3: Study selection
+## Step 4: Chart the data
 
-Step 4: Chart the data
+  The key concepts, domains, and temrinology will be extracted and summarized in a study matrix. The study matrix will help identify overlap between concepts, domains, and
+  terminology from the included studies. 
 
-Step 5: Collate, summarize, and report the results
+## Step 5: Collate, summarize, and report the results
+  
+  The results will be summarized in a table and reported in a publication.
 
-Step 6: Consultation exercise
+## Step 6: Consultation exercise
+  
+  The final results will be provided to experts in the field to get feedback on the findings. 
 
 
 
-## Notes on MeSH Terms ##
+### Notes on MeSH Terms - Category Hierarchy
 
-** MeSH Categories Hierarchy for artificial intelligence **
+**  artificial intelligence **
+https://www.ncbi.nlm.nih.gov/mesh/68001185
 Information Science Category
   Information Science
     Computing Methodologies
@@ -48,10 +83,106 @@ Information Science Category
             Deep Learning
           Robotics
           
-** MeSH Categories Hierarchy for translational medical research **
+** translational medical research **
+https://www.ncbi.nlm.nih.gov/mesh/68057170
 Disciplines and Occupations Category
   Natural Science Disciplines
     Science
       Research
         Biomedical Research
           Translational Medical Research
+          
+** diffusion of innovation **
+https://www.ncbi.nlm.nih.gov/mesh/68004059
+Information Science Category
+  Information Science
+    Communication
+      Diffusion of Innovation
+        Implementation Science
+        Technology Transfer
+        
+** informatics **
+https://www.ncbi.nlm.nih.gov/mesh/68066275
+Information Science Category
+  Information Science
+    Informatics
+      Cheminformatics
+      Computational Biology
+      Consumer Health Informatics
+      Dental Informatics
+      Medical Informatics
+      Health Information Exchange
+      Medical Informatics Applications +
+      Medical Informatics Computing +
+      Nursing Informatics
+      Public Health Informatics
+      
+** health services research **
+https://www.ncbi.nlm.nih.gov/mesh/68006302
+Health Care Category
+  Health Care Economics and Organizations
+    Health Planning
+      Health Services Research
+        Health Care Surveys
+          Health Impact Assessment
+          Patient Reported Outcome Measures +
+          Routinely Collected Health Data
+        Health Services Needs and Demand
+        Needs Assessment
+        Organizational Case Studies
+
+** methods **
+https://www.ncbi.nlm.nih.gov/mesh/68008722
+Analytical, Diagnostic and Therapeutic Techniques and Equipment Category
+  Investigative Techniques
+    Methods
+      Observation
+      Research Design
+        Control Groups
+        Double-Blind Method
+        Early Termination of Clinical Trials
+        Meta-Analysis as Topic +
+        Patient Selection
+        Random Allocation
+        Sample Size +
+
+** quality improvement **
+https://www.ncbi.nlm.nih.gov/mesh/68058996
+Health Care Category
+  Health Services Administration
+    Quality of Health Care
+      Quality Improvement
+        Meaningful Use
+        Value-Based Health Insurance
+
+** user-centered design **
+https://www.ncbi.nlm.nih.gov/mesh/2052200
+Information Science Category
+  Information Science
+    Computing Methodologies
+      Software
+        User-Centered Design
+        
+** learning health system **
+https://www.ncbi.nlm.nih.gov/mesh/2031024
+  Health Care Category
+    Health Services Administration
+      Patient Care Management
+        Delivery of Health Care
+          Learning Health System
+          
+** healthcare disparities ** 
+https://www.ncbi.nlm.nih.gov/mesh/68054625 
+Health Care Category
+  Health Care Quality, Access, and Evaluation
+    Delivery of Health Care
+      Healthcare Disparities
+      
+** health equity ** 
+https://www.ncbi.nlm.nih.gov/mesh/2010037
+Health Care Category
+  Health Care Quality, Access, and Evaluation
+    Delivery of Health Care
+      Health Services Accessibility
+        Health Equity
+        
