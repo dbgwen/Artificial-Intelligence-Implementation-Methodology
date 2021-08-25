@@ -5,9 +5,7 @@ There are three parts to this project:
 
 1. Scoping Review of AI implementation research literature
 Search PubMed, Google Scholar, and other online databases for AI implementation literature
-Limit search to articles in English, published 2010-2021, describe implementation or deployment of AI applications in health care
-[PubMedSearchHistory (2).csv](https://github.com/dbgwen/Artificial-Intelligence-Implementation-Model/files/7033150/PubMedSearchHistory.2.csv)
-
+Limit search to articles in English, published 2010-2021, describe implementation or deployment of AI applications in health care.
   - See Scoping_Review_Search_Strategy
   - See .pdf and .xlsx files containing Bollean phrases for the search results
 
