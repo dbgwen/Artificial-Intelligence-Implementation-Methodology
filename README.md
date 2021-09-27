@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Implementation-Model
+# Artificial-Intelligence-Implementation-Methodology 
 Repository for all things related to the AIIM Project
 
 There are three parts to this project: 
