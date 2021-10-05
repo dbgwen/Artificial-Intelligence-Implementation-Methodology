@@ -1,5 +1,5 @@
 # Artificial-Intelligence-Implementation-Methodology 
-Repository for all things related to the Artificial Intelligence Implementatin Methodology (AIIM) Framework
+Repository for all things related to the Artificial Intelligence Implementation Methodology (AIIM) Framework
 
 There are three parts to this project: 
 
