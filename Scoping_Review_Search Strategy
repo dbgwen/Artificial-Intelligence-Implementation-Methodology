@@ -3,88 +3,24 @@
 Methods for Research Evidence Synthesis: The Scoping Review Approach 
 https://www.journalofhospitalmedicine.com/jhospmed/article/202729/hospital-medicine/methods-research-evidence-synthesis-scoping-review
 
-### Scoping review for implementation methods used for AI in health care settings ###
-
-## Step 1: Identify the research question
-
-  What methods are used to implement AI in health care settings?
-    Do these methods follow any frameworks or theories?
-  What are the key concepts and terminology found in the AI implementation research literature?
-
-## Step 2: Identify relevant studies
   
   PudMed MeSH Terms: "artificial intelligence"
-  *See MeSH notes    "translational medical research"
-  at bottom*         "diffusion of innovation"
-                     "informatics"
-                     "health services research"
-                     "methods"
-                    
-  Boolean search: ("artificial intelligence") AND ("implementation science" OR "translational medical research") AND ("methods") 
-                   PubMed: 49 Results
-                  ("methodology" OR "methods") AND ("implementation science" OR "translational medical research") AND ("artificial intelligence")
-                   Google Scholar (2010-2020): 2,430 results
-                   ("artificial intelligence") AND ("implementation science" OR "translational medical research") AND ("methods")
-                   U of U Eccles Health Sciences Library Catalog: 401 results
-                   
-## Step 3: Study selection
+  *See MeSH notes    "machine learning"
+  at bottom*         "deep learning"
+                     "cancer"
+                     "oncology"
 
   Inclusion criteria: English language articles
-                      Published between 2010-2021
-                      Describes the methods and results from implementation of AI application in health care setting
+                      Published between 2010-2022
+                      Describes the methods and results from AI intervention in cancer care settings
+                      Clinical trials, non-randomized and randomized
                       Observational studies - longitudinal, cross-sectional, non-randomized
                       Experimental studies - randomized controlled trials
                       Hybrid-effectiveness studies
-                      Qualitative studies examining the barriers and facilitators to AI implementation
+                      Qualitative studies examining the barriers and facilitators to AI intervention
                       
   Exclusion critera: Studies only reporting on usability testing or user design
-                     Studies only reporting on the development of the AI application
                      Studies without a methods section
-
-## Step 4: Chart the data
-
-  The key concepts, domains, and temrinology will be extracted and summarized in a study matrix. The study matrix will help identify overlap between concepts, domains, and
-  terminology from the included studies. 
-
-## Step 5: Collate, summarize, and report the results
-  
-  The results will be summarized in a table and reported in a publication.
-
-## Step 6: Consultation exercise
-  
-  The final results will be provided to experts in the field to get feedback on the findings. 
-
-
-
-### Scoping review for relevant theories, frameworks, and models from other fields ###
-
-## Step 1: Identify the research question
-
-  What other theories, frameworks, and models from quality improvement, health equity, and design process thinking are relevant to AI implementation in health care?
-  Are there other methodlogical frameworks in these fields?
-
-## Step 2: Identify relevant studies
- 
-  PubMed MeSH terms: "quality improvement"
-  *See MeSH notes    "user-centered design"
-   at bottom*        "learning health system"
-                     "healthcare disparities"
-                     "health equity"
-                     
-## Step 3: Study selection
-
-  Inclusion criteria: English language articles
-                      Published between 2010-2021
-                      Focused on frameworks, theories, and models from quality improvement, health equity, and design process thinking
-               
-## Step 4: Chart the data                    
- Develop study matrix of relevant frameworks, theories, and models including the kep concepts, domains, and terminology used
-
-## Step 5: Collate, summarize, and report the results
-  The results will be summarized in a table and be used in the development of the AIIM
-
-## Step 6: Consultation exercise
-  The final results will be provided to experts in the field to get feedback on the findings 
 
 
 ### Notes on MeSH Terms - Category Hierarchy ###
@@ -118,15 +54,6 @@ Disciplines and Occupations Category
       Research
         Biomedical Research
           Translational Medical Research
-          
-** diffusion of innovation **
-https://www.ncbi.nlm.nih.gov/mesh/68004059
-Information Science Category
-  Information Science
-    Communication
-      Diffusion of Innovation
-        Implementation Science
-        Technology Transfer
         
 ** informatics **
 https://www.ncbi.nlm.nih.gov/mesh/68066275
@@ -173,43 +100,3 @@ Analytical, Diagnostic and Therapeutic Techniques and Equipment Category
         Random Allocation
         Sample Size +
 
-** quality improvement **
-https://www.ncbi.nlm.nih.gov/mesh/68058996
-Health Care Category
-  Health Services Administration
-    Quality of Health Care
-      Quality Improvement
-        Meaningful Use
-        Value-Based Health Insurance
-
-** user-centered design **
-https://www.ncbi.nlm.nih.gov/mesh/2052200
-Information Science Category
-  Information Science
-    Computing Methodologies
-      Software
-        User-Centered Design
-        
-** learning health system **
-https://www.ncbi.nlm.nih.gov/mesh/2031024
-  Health Care Category
-    Health Services Administration
-      Patient Care Management
-        Delivery of Health Care
-          Learning Health System
-          
-** healthcare disparities ** 
-https://www.ncbi.nlm.nih.gov/mesh/68054625 
-Health Care Category
-  Health Care Quality, Access, and Evaluation
-    Delivery of Health Care
-      Healthcare Disparities
-      
-** health equity ** 
-https://www.ncbi.nlm.nih.gov/mesh/2010037
-Health Care Category
-  Health Care Quality, Access, and Evaluation
-    Delivery of Health Care
-      Health Services Accessibility
-        Health Equity
-        
