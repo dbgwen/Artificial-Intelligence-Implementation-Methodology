@@ -23,7 +23,7 @@ The relevant data points will be extracted and charted from included studies. Th
   
   Example below
   
-     **Study:** Steiner DF, MacDonald R, Liu Y, Truszkowski P, Hipp JD, Gammage C, Thng F, Peng L, Stumpe MC. Impact of deep learning assistance 
+ **Study:** Steiner DF, MacDonald R, Liu Y, Truszkowski P, Hipp JD, Gammage C, Thng F, Peng L, Stumpe MC. Impact of deep learning assistance 
       on the histopathologic review of lymph nodes for metastatic breast cancer. The American journal of surgical pathology. 2018 Dec;42(12):163
      **Setting:** Three cancer clinics 
      **Population:**  Six pathologists reviewed 70 digitized slides from lymph node sections
@@ -31,9 +31,9 @@ The relevant data points will be extracted and charted from included studies. Th
      **Methodology:** Multireader, multicase study of pathologists using deep learning algorithm, LYmph Node Assistant (LYNA), to review hematoxylin and 
       eosin (H&E)-stained lymph node images for breast cancer metastasis; Unassisted vs Assisted (the deep learning algorithm was used to identify and 
       outline regions with high likelihood of containing tumor)
-     **Outcomes:** Obviousness Score (subjective difficulty of image review), Classification Accuracy (sensitivity/Specificity), Efficiency (review time)
-     **Level of Intervention** (patient, provider, clinic, health system, community): provider
-     **Implementation Stage** (exploration, installation, initial implementation, full implementation): Exploration
+      **Outcomes:** Obviousness Score (subjective difficulty of image review), Classification Accuracy (sensitivity/Specificity), Efficiency (review time)
+      **Level of Intervention** (patient, provider, clinic, health system, community): provider
+      **Implementation Stage** (exploration, installation, initial implementation, full implementation): Exploration
      
 ## Step 5. Collate and summarize. 
 The findings will be reported in a narrative style to contextualize the findings. The goal is to summarize the literature that was reviewed with no regard for the “weight” of the evidence or the quality of the studies. The narrative summary will capture the nature and distribution of study type, range of AI applications, and geographic location, including a summary table of the key data points by study. The literature review will summarize the research gaps and provide definitions and concepts for practitioners to evaluate.
