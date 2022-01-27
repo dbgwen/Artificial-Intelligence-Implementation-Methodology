@@ -22,6 +22,7 @@ Plan to limit search to articles in English, published 2010-2022, describe AI in
 The relevant data points will be extracted and charted from included studies. This process will extract key data points into a ‘data charting’ database. 
   
   Example below
+  
      **Study:** Steiner DF, MacDonald R, Liu Y, Truszkowski P, Hipp JD, Gammage C, Thng F, Peng L, Stumpe MC. Impact of deep learning assistance 
       on the histopathologic review of lymph nodes for metastatic breast cancer. The American journal of surgical pathology. 2018 Dec;42(12):163
      **Setting:** Three cancer clinics 
