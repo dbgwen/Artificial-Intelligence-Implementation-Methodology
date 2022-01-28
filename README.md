@@ -35,7 +35,7 @@ The relevant data points will be extracted and charted from included studies. Th
       eosin (H&E)-stained lymph node images for breast cancer metastasis. Each pathologist first trained on 5 images before reviewing 70 images from 67 unique
       tissue blocks across 50 distinct cases. Reviewed slides unassisted first and then reviewed them assisted with deep learning algorithm 
       - **Outcomes:** Obviousness Score (subjective difficulty of image review), Classification Accuracy (sensitivity/Specificity), Efficiency (review time)
-      - **Level of Intervention** (patient, provider, clinic, health system, community): Provider
+      - **Intervention Level** (patient, provider, clinic, health system, community): Provider
       - **Implementation Stage** (exploration, installation, initial implementation, full implementation): Exploration
      
      
