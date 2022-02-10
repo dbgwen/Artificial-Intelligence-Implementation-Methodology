@@ -30,6 +30,7 @@ The relevant data points will be extracted and charted from included studies. Th
       - **Setting:** Three cancer clinics 
       - **Population:**  Six pathologists, years of experience ranged from 1 to 15, none with specialization in breast cancer
       - **AI Intervention:** Deep learning model to assist pathologists reviewing lymph nodes images for metastatic breast cancer
+      - **Intervention Type** (screening, diagnosis, treatment, survivorship): diagnosis 
       - **AI Training Data:** Camelyon16 challenge dataset from the Netherlands		 	 	 	
       - **Methodology:** Multireader, multicase study of pathologists using deep learning algorithm, LYmph Node Assistant (LYNA), to review hematoxylin and 
       eosin (H&E)-stained lymph node images for breast cancer metastasis. Each pathologist first trained on 5 images before reviewing 70 images from 67 unique
