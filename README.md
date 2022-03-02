@@ -5,20 +5,20 @@ There are six steps to this project:
 
 ## Step 1. Identify the research question
 The research question for the scoping review is broad in scope and clearly defined: 
-  1a) What methods are used to implement AI interventions for cancer care? 
+  1a) What methods are used to implement AI interventions for health care? 
   1b) What outcomes are being measured? 
   1c) What level is the AI intervention being implemented? 
   1d) What stage of implementation did the AI intervention achieve?
 
 
 ## Step 2. Identify relevant studies. 
-Search PubMed, Google Scholar, and other online databases for AI interventions in cancer care settings
+Search PubMed, Google Scholar, and other online databases for AI interventions in health care settings
   - See Scoping_Review_Search_Strategy
 
 
 ## Step 3. Study selection. 
 The inclusion and exclusion criteria will be applied after all relevant literature has been identified.
-Plan to limit search to articles in English, published 2010-2022, describe AI interventions in cancer care settings, include enough detail to extract and chart data from
+Plan to limit search to articles in English, published 2000-2022, describe AI interventions in health care settings, include enough detail to extract and chart data from
 
 
 ## Step 4. Chart the data. 
