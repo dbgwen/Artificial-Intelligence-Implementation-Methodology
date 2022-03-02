@@ -7,20 +7,32 @@ https://www.journalofhospitalmedicine.com/jhospmed/article/202729/hospital-medic
   PudMed MeSH Terms: "artificial intelligence"
   *See MeSH notes    "machine learning"
   at bottom*         "deep learning"
-                     "cancer"
-                     "oncology"
-
+                     "neural network"
+                     "natural language processing"
+                     "algorithm"
+                     "clinical trial"
+                     "health care"
+                     "delivery of health care"
+                     "health services research"
+                    
   Inclusion criteria: English language articles
-                      Published between 2010-2022
-                      Describes the methods and results from AI intervention in cancer care settings
+                      Peer-reviewed journal articles
+                      Published between 2000-2022
+                      Describes the methods and results from AI intervention in health care settings
                       Clinical trials, non-randomized and randomized
                       Observational studies - longitudinal, cross-sectional, non-randomized
                       Experimental studies - randomized controlled trials
                       Hybrid-effectiveness studies
                       Qualitative studies examining the barriers and facilitators to AI intervention
                       
-  Exclusion critera: Studies only reporting on usability testing or user design
-                     Studies without a methods section
+  Exclusion criteria: Studies only reporting on usability testing, user design, study protocols, or algorithm development 
+                      Studies without a methods section or adequate methods section (e.g., doesn't provide details on training dataset or deployment)
+                      Book chapters, white papers, conference abstracts or posters
+
+
+Boolean Search Terms: 
+
+("artificial intelligence" OR "machine learning" OR "deep learning" OR "neural network" OR "natural language processing" OR "algorithm") AND ("clinical trial") AND ("health care" OR "delivery of health care" OR "health services research") 
 
 
 ### Notes on MeSH Terms - Category Hierarchy ###
@@ -45,31 +57,7 @@ Information Science Category
           Neural Networks, Computer
             Deep Learning
           Robotics
-          
-** translational medical research **
-https://www.ncbi.nlm.nih.gov/mesh/68057170
-Disciplines and Occupations Category
-  Natural Science Disciplines
-    Science
-      Research
-        Biomedical Research
-          Translational Medical Research
-        
-** informatics **
-https://www.ncbi.nlm.nih.gov/mesh/68066275
-Information Science Category
-  Information Science
-    Informatics
-      Cheminformatics
-      Computational Biology
-      Consumer Health Informatics
-      Dental Informatics
-      Medical Informatics
-      Health Information Exchange
-      Medical Informatics Applications +
-      Medical Informatics Computing +
-      Nursing Informatics
-      Public Health Informatics
+         
       
 ** health services research **
 https://www.ncbi.nlm.nih.gov/mesh/68006302
@@ -99,4 +87,22 @@ Analytical, Diagnostic and Therapeutic Techniques and Equipment Category
         Patient Selection
         Random Allocation
         Sample Size +
+
+** clinical trial **
+Analytical, Diagnostic and Therapeutic Techniques and Equipment Category
+  Investigative Techniques
+    Epidemiologic Methods
+      Epidemiologic Study Characteristics
+        Clinical Studies as Topic
+          Clinical Trials as Topic
+            Adaptive Clinical Trials as Topic
+            Clinical Trials, Phase I as Topic
+            Clinical Trials, Phase II as Topic
+            Clinical Trials, Phase III as Topic
+            Clinical Trials, Phase IV as Topic
+            Controlled Clinical Trials as Topic
+              Non-Randomized Controlled Trials as Topic
+              Randomized Controlled Trials as Topic +
+            Single-Case Studies as Topic
+
 
